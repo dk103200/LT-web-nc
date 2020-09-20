@@ -1,0 +1,1 @@
+<?php  echo"Đại học Đà Nẵng - Trường Đại học Sư phạm Kỹ thuật<br/>Bộ môn CNTT – Khoa Điện – Điện tử"?>
