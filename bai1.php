@@ -19,7 +19,7 @@
         <form action="bai1.php" method="post" >
             <table width="271" border="1">
                 <tr>
-                    <td colspan="2" bgcolor="#336699"><strong>In lời chào</strong></td>
+                    <td colspan="2" bgcolor="#336699" align="center" ><strong>In lời chào</strong></td>
                 </tr>
                 <tr>
                     <td width="91">Họ tên bạn</td>
